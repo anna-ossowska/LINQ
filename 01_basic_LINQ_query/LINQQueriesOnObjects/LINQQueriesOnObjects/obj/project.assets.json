@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomas\\Documents\\anna\\repos\\LINQ\\01_basic_LINQ_querty\\LINQQueriesOnObjects\\LINQQueriesOnObjects\\LINQQueriesOnObjects.csproj",
+      "projectUniqueName": "C:\\Users\\tomas\\Documents\\anna\\repos\\LINQ\\01_basic_LINQ_query\\LINQQueriesOnObjects\\LINQQueriesOnObjects\\LINQQueriesOnObjects.csproj",
       "projectName": "LINQQueriesOnObjects",
-      "projectPath": "C:\\Users\\tomas\\Documents\\anna\\repos\\LINQ\\01_basic_LINQ_querty\\LINQQueriesOnObjects\\LINQQueriesOnObjects\\LINQQueriesOnObjects.csproj",
+      "projectPath": "C:\\Users\\tomas\\Documents\\anna\\repos\\LINQ\\01_basic_LINQ_query\\LINQQueriesOnObjects\\LINQQueriesOnObjects\\LINQQueriesOnObjects.csproj",
       "packagesPath": "C:\\Users\\tomas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomas\\Documents\\anna\\repos\\LINQ\\01_basic_LINQ_querty\\LINQQueriesOnObjects\\LINQQueriesOnObjects\\obj\\",
+      "outputPath": "C:\\Users\\tomas\\Documents\\anna\\repos\\LINQ\\01_basic_LINQ_query\\LINQQueriesOnObjects\\LINQQueriesOnObjects\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

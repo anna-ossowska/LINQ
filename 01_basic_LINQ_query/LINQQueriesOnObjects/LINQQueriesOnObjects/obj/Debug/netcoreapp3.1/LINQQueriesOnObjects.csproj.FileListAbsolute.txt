@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\bin\Debug\netcoreapp3.1\LINQQueriesOnObjects.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\bin\Debug\netcoreapp3.1\LINQQueriesOnObjects.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\bin\Debug\netcoreapp3.1\LINQQueriesOnObjects.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\bin\Debug\netcoreapp3.1\LINQQueriesOnObjects.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\bin\Debug\netcoreapp3.1\LINQQueriesOnObjects.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\bin\Debug\netcoreapp3.1\LINQQueriesOnObjects.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\obj\Debug\netcoreapp3.1\LINQQueriesOnObjects.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\obj\Debug\netcoreapp3.1\LINQQueriesOnObjects.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\obj\Debug\netcoreapp3.1\LINQQueriesOnObjects.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\obj\Debug\netcoreapp3.1\LINQQueriesOnObjects.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\obj\Debug\netcoreapp3.1\LINQQueriesOnObjects.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\obj\Debug\netcoreapp3.1\LINQQueriesOnObjects.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LINQQueriesOnObjects\LINQQueriesOnObjects\obj\Debug\netcoreapp3.1\LINQQueriesOnObjects.genruntimeconfig.cache
