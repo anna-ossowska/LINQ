@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\bin\Debug\netcoreapp3.1\LINQExamples.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\bin\Debug\netcoreapp3.1\LINQExamples.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\bin\Debug\netcoreapp3.1\LINQExamples.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\bin\Debug\netcoreapp3.1\LINQExamples.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\bin\Debug\netcoreapp3.1\LINQExamples.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\bin\Debug\netcoreapp3.1\LINQExamples.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\obj\Debug\netcoreapp3.1\LINQExamples.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\obj\Debug\netcoreapp3.1\LINQExamples.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\obj\Debug\netcoreapp3.1\LINQExamples.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\obj\Debug\netcoreapp3.1\LINQExamples.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\obj\Debug\netcoreapp3.1\LINQExamples.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_querty\LINQExamples\LINQExamples\obj\Debug\netcoreapp3.1\LINQExamples.genruntimeconfig.cache
