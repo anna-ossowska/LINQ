@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\bin\Debug\netcoreapp3.1\LetKeyword.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\bin\Debug\netcoreapp3.1\LetKeyword.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\bin\Debug\netcoreapp3.1\LetKeyword.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\bin\Debug\netcoreapp3.1\LetKeyword.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\bin\Debug\netcoreapp3.1\LetKeyword.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\bin\Debug\netcoreapp3.1\LetKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\obj\Debug\netcoreapp3.1\LetKeyword.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\obj\Debug\netcoreapp3.1\LetKeyword.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\obj\Debug\netcoreapp3.1\LetKeyword.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\obj\Debug\netcoreapp3.1\LetKeyword.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\obj\Debug\netcoreapp3.1\LetKeyword.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\obj\Debug\netcoreapp3.1\LetKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\LetKeyword\LetKeyword\obj\Debug\netcoreapp3.1\LetKeyword.genruntimeconfig.cache
