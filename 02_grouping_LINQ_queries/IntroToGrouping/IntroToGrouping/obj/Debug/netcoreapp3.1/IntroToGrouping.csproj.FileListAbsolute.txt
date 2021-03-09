@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\bin\Debug\netcoreapp3.1\IntroToGrouping.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\bin\Debug\netcoreapp3.1\IntroToGrouping.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\bin\Debug\netcoreapp3.1\IntroToGrouping.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\bin\Debug\netcoreapp3.1\IntroToGrouping.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\bin\Debug\netcoreapp3.1\IntroToGrouping.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\bin\Debug\netcoreapp3.1\IntroToGrouping.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\obj\Debug\netcoreapp3.1\IntroToGrouping.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\obj\Debug\netcoreapp3.1\IntroToGrouping.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\obj\Debug\netcoreapp3.1\IntroToGrouping.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\obj\Debug\netcoreapp3.1\IntroToGrouping.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\obj\Debug\netcoreapp3.1\IntroToGrouping.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\obj\Debug\netcoreapp3.1\IntroToGrouping.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntroToGrouping\IntroToGrouping\obj\Debug\netcoreapp3.1\IntroToGrouping.genruntimeconfig.cache
