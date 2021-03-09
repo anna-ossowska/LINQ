@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\obj\Debug\netcoreapp3.1\CountItemsInGroups.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\obj\Debug\netcoreapp3.1\CountItemsInGroups.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\obj\Debug\netcoreapp3.1\CountItemsInGroups.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\bin\Debug\netcoreapp3.1\CountItemsInGroups.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\bin\Debug\netcoreapp3.1\CountItemsInGroups.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\bin\Debug\netcoreapp3.1\CountItemsInGroups.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\bin\Debug\netcoreapp3.1\CountItemsInGroups.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\bin\Debug\netcoreapp3.1\CountItemsInGroups.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\bin\Debug\netcoreapp3.1\CountItemsInGroups.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\obj\Debug\netcoreapp3.1\CountItemsInGroups.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\obj\Debug\netcoreapp3.1\CountItemsInGroups.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\CountItemsInGroups\CountItemsInGroups\obj\Debug\netcoreapp3.1\CountItemsInGroups.genruntimeconfig.cache
