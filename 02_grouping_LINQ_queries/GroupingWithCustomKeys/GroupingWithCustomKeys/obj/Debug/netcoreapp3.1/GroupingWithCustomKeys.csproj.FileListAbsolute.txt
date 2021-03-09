@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\bin\Debug\netcoreapp3.1\GroupingWithCustomKeys.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\bin\Debug\netcoreapp3.1\GroupingWithCustomKeys.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\bin\Debug\netcoreapp3.1\GroupingWithCustomKeys.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\bin\Debug\netcoreapp3.1\GroupingWithCustomKeys.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\bin\Debug\netcoreapp3.1\GroupingWithCustomKeys.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\bin\Debug\netcoreapp3.1\GroupingWithCustomKeys.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\obj\Debug\netcoreapp3.1\GroupingWithCustomKeys.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\obj\Debug\netcoreapp3.1\GroupingWithCustomKeys.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\obj\Debug\netcoreapp3.1\GroupingWithCustomKeys.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\obj\Debug\netcoreapp3.1\GroupingWithCustomKeys.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\obj\Debug\netcoreapp3.1\GroupingWithCustomKeys.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\obj\Debug\netcoreapp3.1\GroupingWithCustomKeys.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupingWithCustomKeys\GroupingWithCustomKeys\obj\Debug\netcoreapp3.1\GroupingWithCustomKeys.genruntimeconfig.cache
