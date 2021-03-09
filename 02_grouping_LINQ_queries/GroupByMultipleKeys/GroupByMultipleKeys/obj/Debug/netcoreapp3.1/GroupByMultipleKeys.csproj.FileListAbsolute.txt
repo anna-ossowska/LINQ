@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\bin\Debug\netcoreapp3.1\GroupByMultipleKeys.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\bin\Debug\netcoreapp3.1\GroupByMultipleKeys.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\bin\Debug\netcoreapp3.1\GroupByMultipleKeys.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\bin\Debug\netcoreapp3.1\GroupByMultipleKeys.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\bin\Debug\netcoreapp3.1\GroupByMultipleKeys.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\bin\Debug\netcoreapp3.1\GroupByMultipleKeys.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\obj\Debug\netcoreapp3.1\GroupByMultipleKeys.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\obj\Debug\netcoreapp3.1\GroupByMultipleKeys.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\obj\Debug\netcoreapp3.1\GroupByMultipleKeys.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\obj\Debug\netcoreapp3.1\GroupByMultipleKeys.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\obj\Debug\netcoreapp3.1\GroupByMultipleKeys.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\obj\Debug\netcoreapp3.1\GroupByMultipleKeys.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\GroupByMultipleKeys\GroupByMultipleKeys\obj\Debug\netcoreapp3.1\GroupByMultipleKeys.genruntimeconfig.cache
