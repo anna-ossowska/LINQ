@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\bin\Debug\netcoreapp3.1\IntoKeyword.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\bin\Debug\netcoreapp3.1\IntoKeyword.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\bin\Debug\netcoreapp3.1\IntoKeyword.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\bin\Debug\netcoreapp3.1\IntoKeyword.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\bin\Debug\netcoreapp3.1\IntoKeyword.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\bin\Debug\netcoreapp3.1\IntoKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\obj\Debug\netcoreapp3.1\IntoKeyword.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\obj\Debug\netcoreapp3.1\IntoKeyword.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\obj\Debug\netcoreapp3.1\IntoKeyword.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\obj\Debug\netcoreapp3.1\IntoKeyword.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\obj\Debug\netcoreapp3.1\IntoKeyword.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\obj\Debug\netcoreapp3.1\IntoKeyword.genruntimeconfig.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\02_grouping_LINQ_queries\IntoKeyword\IntoKeyword\obj\Debug\netcoreapp3.1\IntoKeyword.csprojAssemblyReference.cache
