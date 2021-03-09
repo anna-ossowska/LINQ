@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\bin\Debug\netcoreapp3.1\SelectNewCreateObjects.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\bin\Debug\netcoreapp3.1\SelectNewCreateObjects.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\bin\Debug\netcoreapp3.1\SelectNewCreateObjects.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\bin\Debug\netcoreapp3.1\SelectNewCreateObjects.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\bin\Debug\netcoreapp3.1\SelectNewCreateObjects.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\bin\Debug\netcoreapp3.1\SelectNewCreateObjects.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\obj\Debug\netcoreapp3.1\SelectNewCreateObjects.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\obj\Debug\netcoreapp3.1\SelectNewCreateObjects.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\obj\Debug\netcoreapp3.1\SelectNewCreateObjects.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\obj\Debug\netcoreapp3.1\SelectNewCreateObjects.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\obj\Debug\netcoreapp3.1\SelectNewCreateObjects.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\obj\Debug\netcoreapp3.1\SelectNewCreateObjects.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\01_basic_LINQ_query\SelectNewCreateObjects\SelectNewCreateObjects\obj\Debug\netcoreapp3.1\SelectNewCreateObjects.genruntimeconfig.cache
