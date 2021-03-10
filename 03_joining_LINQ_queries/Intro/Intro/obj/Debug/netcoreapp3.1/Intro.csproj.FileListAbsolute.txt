@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\bin\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\Intro\Intro\obj\Debug\netcoreapp3.1\Intro.genruntimeconfig.cache
