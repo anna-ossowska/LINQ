@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\obj\Debug\netcoreapp3.1\GroupJoin2.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\obj\Debug\netcoreapp3.1\GroupJoin2.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\obj\Debug\netcoreapp3.1\GroupJoin2.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\obj\Debug\netcoreapp3.1\GroupJoin2.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\bin\Debug\netcoreapp3.1\GroupJoin2.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\bin\Debug\netcoreapp3.1\GroupJoin2.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\bin\Debug\netcoreapp3.1\GroupJoin2.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\bin\Debug\netcoreapp3.1\GroupJoin2.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\bin\Debug\netcoreapp3.1\GroupJoin2.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\bin\Debug\netcoreapp3.1\GroupJoin2.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\obj\Debug\netcoreapp3.1\GroupJoin2.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\obj\Debug\netcoreapp3.1\GroupJoin2.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\03_joining_LINQ_queries\GroupJoin2\GroupJoin2\obj\Debug\netcoreapp3.1\GroupJoin2.genruntimeconfig.cache
