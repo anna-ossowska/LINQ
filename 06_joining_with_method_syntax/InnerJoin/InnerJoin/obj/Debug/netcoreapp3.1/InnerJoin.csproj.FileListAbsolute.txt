@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\bin\Debug\netcoreapp3.1\InnerJoin.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\bin\Debug\netcoreapp3.1\InnerJoin.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\bin\Debug\netcoreapp3.1\InnerJoin.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\bin\Debug\netcoreapp3.1\InnerJoin.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\bin\Debug\netcoreapp3.1\InnerJoin.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\bin\Debug\netcoreapp3.1\InnerJoin.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\obj\Debug\netcoreapp3.1\InnerJoin.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\obj\Debug\netcoreapp3.1\InnerJoin.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\obj\Debug\netcoreapp3.1\InnerJoin.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\obj\Debug\netcoreapp3.1\InnerJoin.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\obj\Debug\netcoreapp3.1\InnerJoin.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\obj\Debug\netcoreapp3.1\InnerJoin.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoin\InnerJoin\obj\Debug\netcoreapp3.1\InnerJoin.genruntimeconfig.cache
