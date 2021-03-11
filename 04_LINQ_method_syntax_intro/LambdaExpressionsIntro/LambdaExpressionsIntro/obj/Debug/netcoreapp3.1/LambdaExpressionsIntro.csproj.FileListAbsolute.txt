@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\bin\Debug\netcoreapp3.1\LambdaExpressionsIntro.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\bin\Debug\netcoreapp3.1\LambdaExpressionsIntro.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\bin\Debug\netcoreapp3.1\LambdaExpressionsIntro.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\bin\Debug\netcoreapp3.1\LambdaExpressionsIntro.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\bin\Debug\netcoreapp3.1\LambdaExpressionsIntro.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\bin\Debug\netcoreapp3.1\LambdaExpressionsIntro.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\obj\Debug\netcoreapp3.1\LambdaExpressionsIntro.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\obj\Debug\netcoreapp3.1\LambdaExpressionsIntro.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\obj\Debug\netcoreapp3.1\LambdaExpressionsIntro.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\obj\Debug\netcoreapp3.1\LambdaExpressionsIntro.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\obj\Debug\netcoreapp3.1\LambdaExpressionsIntro.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\obj\Debug\netcoreapp3.1\LambdaExpressionsIntro.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\LambdaExpressionsIntro\LambdaExpressionsIntro\obj\Debug\netcoreapp3.1\LambdaExpressionsIntro.genruntimeconfig.cache
