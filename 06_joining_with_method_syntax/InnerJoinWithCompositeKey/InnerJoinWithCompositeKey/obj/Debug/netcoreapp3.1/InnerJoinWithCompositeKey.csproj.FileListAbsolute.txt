@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\bin\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\bin\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\bin\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\bin\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\bin\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\bin\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\obj\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\obj\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\obj\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\obj\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\obj\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\InnerJoinWithCompositeKey\InnerJoinWithCompositeKey\obj\Debug\netcoreapp3.1\InnerJoinWithCompositeKey.genruntimeconfig.cache
