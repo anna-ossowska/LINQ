@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\bin\Debug\netcoreapp3.1\SelectvsWhere.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\bin\Debug\netcoreapp3.1\SelectvsWhere.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\bin\Debug\netcoreapp3.1\SelectvsWhere.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\bin\Debug\netcoreapp3.1\SelectvsWhere.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\bin\Debug\netcoreapp3.1\SelectvsWhere.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\bin\Debug\netcoreapp3.1\SelectvsWhere.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\obj\Debug\netcoreapp3.1\SelectvsWhere.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\obj\Debug\netcoreapp3.1\SelectvsWhere.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\obj\Debug\netcoreapp3.1\SelectvsWhere.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\obj\Debug\netcoreapp3.1\SelectvsWhere.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\obj\Debug\netcoreapp3.1\SelectvsWhere.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\04_LINQ_method_syntax_intro\SelectvsWhere\SelectvsWhere\obj\Debug\netcoreapp3.1\SelectvsWhere.genruntimeconfig.cache
