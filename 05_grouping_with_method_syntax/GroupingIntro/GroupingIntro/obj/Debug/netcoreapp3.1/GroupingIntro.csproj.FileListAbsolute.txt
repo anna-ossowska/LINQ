@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\bin\Debug\netcoreapp3.1\GroupingIntro.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\bin\Debug\netcoreapp3.1\GroupingIntro.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\bin\Debug\netcoreapp3.1\GroupingIntro.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\bin\Debug\netcoreapp3.1\GroupingIntro.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\bin\Debug\netcoreapp3.1\GroupingIntro.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\bin\Debug\netcoreapp3.1\GroupingIntro.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\obj\Debug\netcoreapp3.1\GroupingIntro.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\obj\Debug\netcoreapp3.1\GroupingIntro.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\obj\Debug\netcoreapp3.1\GroupingIntro.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\obj\Debug\netcoreapp3.1\GroupingIntro.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\obj\Debug\netcoreapp3.1\GroupingIntro.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\obj\Debug\netcoreapp3.1\GroupingIntro.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\05_grouping_with_method_syntax\GroupingIntro\GroupingIntro\obj\Debug\netcoreapp3.1\GroupingIntro.genruntimeconfig.cache
