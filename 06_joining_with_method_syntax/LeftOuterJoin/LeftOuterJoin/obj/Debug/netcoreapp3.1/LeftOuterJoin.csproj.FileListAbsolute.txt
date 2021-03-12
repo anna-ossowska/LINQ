@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\bin\Debug\netcoreapp3.1\LeftOuterJoin.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\bin\Debug\netcoreapp3.1\LeftOuterJoin.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\bin\Debug\netcoreapp3.1\LeftOuterJoin.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\bin\Debug\netcoreapp3.1\LeftOuterJoin.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\bin\Debug\netcoreapp3.1\LeftOuterJoin.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\bin\Debug\netcoreapp3.1\LeftOuterJoin.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\obj\Debug\netcoreapp3.1\LeftOuterJoin.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\obj\Debug\netcoreapp3.1\LeftOuterJoin.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\obj\Debug\netcoreapp3.1\LeftOuterJoin.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\obj\Debug\netcoreapp3.1\LeftOuterJoin.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\obj\Debug\netcoreapp3.1\LeftOuterJoin.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\obj\Debug\netcoreapp3.1\LeftOuterJoin.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\06_joining_with_method_syntax\LeftOuterJoin\LeftOuterJoin\obj\Debug\netcoreapp3.1\LeftOuterJoin.genruntimeconfig.cache
