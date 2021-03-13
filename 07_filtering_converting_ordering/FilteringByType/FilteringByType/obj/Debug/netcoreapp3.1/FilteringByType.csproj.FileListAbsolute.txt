@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\bin\Debug\netcoreapp3.1\FilteringByType.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\bin\Debug\netcoreapp3.1\FilteringByType.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\bin\Debug\netcoreapp3.1\FilteringByType.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\bin\Debug\netcoreapp3.1\FilteringByType.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\bin\Debug\netcoreapp3.1\FilteringByType.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\bin\Debug\netcoreapp3.1\FilteringByType.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\obj\Debug\netcoreapp3.1\FilteringByType.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\obj\Debug\netcoreapp3.1\FilteringByType.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\obj\Debug\netcoreapp3.1\FilteringByType.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\obj\Debug\netcoreapp3.1\FilteringByType.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\obj\Debug\netcoreapp3.1\FilteringByType.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\obj\Debug\netcoreapp3.1\FilteringByType.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\FilteringByType\FilteringByType\obj\Debug\netcoreapp3.1\FilteringByType.genruntimeconfig.cache
