@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\obj\Debug\netcoreapp3.1\QuantifyingOperations.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\obj\Debug\netcoreapp3.1\QuantifyingOperations.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\obj\Debug\netcoreapp3.1\QuantifyingOperations.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\bin\Debug\netcoreapp3.1\QuantifyingOperations.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\bin\Debug\netcoreapp3.1\QuantifyingOperations.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\bin\Debug\netcoreapp3.1\QuantifyingOperations.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\bin\Debug\netcoreapp3.1\QuantifyingOperations.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\bin\Debug\netcoreapp3.1\QuantifyingOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\bin\Debug\netcoreapp3.1\QuantifyingOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\obj\Debug\netcoreapp3.1\QuantifyingOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\obj\Debug\netcoreapp3.1\QuantifyingOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\QuantifyingOperations\QuantifyingOperations\obj\Debug\netcoreapp3.1\QuantifyingOperations.genruntimeconfig.cache
