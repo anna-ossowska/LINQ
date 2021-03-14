@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\bin\Debug\netcoreapp3.1\SetOperations.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\bin\Debug\netcoreapp3.1\SetOperations.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\bin\Debug\netcoreapp3.1\SetOperations.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\bin\Debug\netcoreapp3.1\SetOperations.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\bin\Debug\netcoreapp3.1\SetOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\bin\Debug\netcoreapp3.1\SetOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\obj\Debug\netcoreapp3.1\SetOperations.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\obj\Debug\netcoreapp3.1\SetOperations.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\obj\Debug\netcoreapp3.1\SetOperations.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\obj\Debug\netcoreapp3.1\SetOperations.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\obj\Debug\netcoreapp3.1\SetOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\obj\Debug\netcoreapp3.1\SetOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\SetOperations\SetOperations\obj\Debug\netcoreapp3.1\SetOperations.genruntimeconfig.cache
