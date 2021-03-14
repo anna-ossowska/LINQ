@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\bin\Debug\netcoreapp3.1\Ordering.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\bin\Debug\netcoreapp3.1\Ordering.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\bin\Debug\netcoreapp3.1\Ordering.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\bin\Debug\netcoreapp3.1\Ordering.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\bin\Debug\netcoreapp3.1\Ordering.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\bin\Debug\netcoreapp3.1\Ordering.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\obj\Debug\netcoreapp3.1\Ordering.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\obj\Debug\netcoreapp3.1\Ordering.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\obj\Debug\netcoreapp3.1\Ordering.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\obj\Debug\netcoreapp3.1\Ordering.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\obj\Debug\netcoreapp3.1\Ordering.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Ordering\Ordering\obj\Debug\netcoreapp3.1\Ordering.genruntimeconfig.cache
