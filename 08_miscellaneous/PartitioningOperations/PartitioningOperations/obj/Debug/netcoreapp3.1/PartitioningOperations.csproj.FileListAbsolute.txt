@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\bin\Debug\netcoreapp3.1\PartitioningOperations.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\bin\Debug\netcoreapp3.1\PartitioningOperations.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\bin\Debug\netcoreapp3.1\PartitioningOperations.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\bin\Debug\netcoreapp3.1\PartitioningOperations.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\bin\Debug\netcoreapp3.1\PartitioningOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\bin\Debug\netcoreapp3.1\PartitioningOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\obj\Debug\netcoreapp3.1\PartitioningOperations.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\obj\Debug\netcoreapp3.1\PartitioningOperations.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\obj\Debug\netcoreapp3.1\PartitioningOperations.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\obj\Debug\netcoreapp3.1\PartitioningOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\obj\Debug\netcoreapp3.1\PartitioningOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\PartitioningOperations\PartitioningOperations\obj\Debug\netcoreapp3.1\PartitioningOperations.genruntimeconfig.cache
