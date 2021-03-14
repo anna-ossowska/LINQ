@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\bin\Debug\netcoreapp3.1\GeneratingSequences.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\bin\Debug\netcoreapp3.1\GeneratingSequences.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\bin\Debug\netcoreapp3.1\GeneratingSequences.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\bin\Debug\netcoreapp3.1\GeneratingSequences.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\bin\Debug\netcoreapp3.1\GeneratingSequences.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\bin\Debug\netcoreapp3.1\GeneratingSequences.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\obj\Debug\netcoreapp3.1\GeneratingSequences.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\obj\Debug\netcoreapp3.1\GeneratingSequences.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\obj\Debug\netcoreapp3.1\GeneratingSequences.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\obj\Debug\netcoreapp3.1\GeneratingSequences.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\obj\Debug\netcoreapp3.1\GeneratingSequences.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\obj\Debug\netcoreapp3.1\GeneratingSequences.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\GeneratingSequences\GeneratingSequences\obj\Debug\netcoreapp3.1\GeneratingSequences.genruntimeconfig.cache
