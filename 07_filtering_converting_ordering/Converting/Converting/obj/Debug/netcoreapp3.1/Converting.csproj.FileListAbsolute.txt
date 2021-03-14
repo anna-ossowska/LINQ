@@ -1,0 +1,13 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\bin\Debug\netcoreapp3.1\Converting.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\bin\Debug\netcoreapp3.1\Converting.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\bin\Debug\netcoreapp3.1\Converting.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\bin\Debug\netcoreapp3.1\Converting.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\bin\Debug\netcoreapp3.1\Converting.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\bin\Debug\netcoreapp3.1\Converting.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\obj\Debug\netcoreapp3.1\Converting.csprojAssemblyReference.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\obj\Debug\netcoreapp3.1\Converting.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\obj\Debug\netcoreapp3.1\Converting.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\obj\Debug\netcoreapp3.1\Converting.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\obj\Debug\netcoreapp3.1\Converting.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\obj\Debug\netcoreapp3.1\Converting.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\07_filtering_converting_ordering\Converting\Converting\obj\Debug\netcoreapp3.1\Converting.genruntimeconfig.cache
