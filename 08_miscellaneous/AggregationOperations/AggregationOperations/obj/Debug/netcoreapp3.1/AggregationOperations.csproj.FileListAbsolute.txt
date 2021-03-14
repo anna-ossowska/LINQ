@@ -1,0 +1,12 @@
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\bin\Debug\netcoreapp3.1\AggregationOperations.exe
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\bin\Debug\netcoreapp3.1\AggregationOperations.deps.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\bin\Debug\netcoreapp3.1\AggregationOperations.runtimeconfig.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\bin\Debug\netcoreapp3.1\AggregationOperations.runtimeconfig.dev.json
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\bin\Debug\netcoreapp3.1\AggregationOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\bin\Debug\netcoreapp3.1\AggregationOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\obj\Debug\netcoreapp3.1\AggregationOperations.AssemblyInfoInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\obj\Debug\netcoreapp3.1\AggregationOperations.AssemblyInfo.cs
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\obj\Debug\netcoreapp3.1\AggregationOperations.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\obj\Debug\netcoreapp3.1\AggregationOperations.dll
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\obj\Debug\netcoreapp3.1\AggregationOperations.pdb
+C:\Users\tomas\Documents\anna\repos\LINQ\08_miscellaneous\AggregationOperations\AggregationOperations\obj\Debug\netcoreapp3.1\AggregationOperations.genruntimeconfig.cache
